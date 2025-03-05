@@ -1,7 +1,7 @@
-package ar.edu.utn.frsf.dswba.infrastructure.adapters.input.rest;
+package ar.edu.utn.frsf.dswba.restservice.infrastructure.adapters.input.rest;
 
 import ar.edu.utn.frsf.dswba.application.ports.input.UserUseCase;
-import ar.edu.utn.frsf.dswba.domain.model.User;
+import ar.edu.utn.frsf.dswba.restservice.domain.model.User;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

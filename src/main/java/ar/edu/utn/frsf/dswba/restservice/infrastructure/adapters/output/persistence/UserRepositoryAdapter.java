@@ -1,7 +1,7 @@
-package ar.edu.utn.frsf.dswba.infrastructure.adapters.output.persistence;
+package ar.edu.utn.frsf.dswba.restservice.infrastructure.adapters.output.persistence;
 
 import ar.edu.utn.frsf.dswba.application.ports.output.UserRepository;
-import ar.edu.utn.frsf.dswba.domain.model.User;
+import ar.edu.utn.frsf.dswba.restservice.domain.model.User;
 import org.springframework.stereotype.Component;
 
 @Component

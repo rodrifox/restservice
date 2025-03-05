@@ -1,4 +1,4 @@
-package ar.edu.utn.frsf.dswba.domain.model;
+package ar.edu.utn.frsf.dswba.restservice.domain.model;
 
 import java.time.LocalDateTime;
 

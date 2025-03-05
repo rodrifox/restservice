@@ -1,4 +1,4 @@
-package ar.edu.utn.frsf.dswba.infrastructure.adapters.output.persistence;
+package ar.edu.utn.frsf.dswba.restservice.infrastructure.adapters.output.persistence;
 
 import jakarta.persistence.*;
 import java.time.LocalDateTime;

@@ -1,4 +1,4 @@
-package ar.edu.utn.frsf.dswba.restservice;
+package ar.edu.utn.frsf.dswba.restservice.domain.model;
 
 public class Greeting {
 
