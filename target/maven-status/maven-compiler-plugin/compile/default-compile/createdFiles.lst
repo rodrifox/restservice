@@ -1,0 +1,12 @@
+ar/edu/utn/frsf/dswba/restservice/RestServiceApplication.class
+ar/edu/utn/frsf/dswba/restservice/infrastructure/adapters/input/rest/GreetingController.class
+ar/edu/utn/frsf/dswba/restservice/infrastructure/adapters/output/persistence/JpaUserRepository.class
+ar/edu/utn/frsf/dswba/restservice/domain/model/Greeting.class
+ar/edu/utn/frsf/dswba/application/usecases/UserService.class
+ar/edu/utn/frsf/dswba/restservice/application/ports/input/UserUseCase.class
+ar/edu/utn/frsf/dswba/restservice/infrastructure/adapters/output/persistence/UserMapper.class
+ar/edu/utn/frsf/dswba/restservice/infrastructure/adapters/output/persistence/UserRepositoryAdapter.class
+ar/edu/utn/frsf/dswba/restservice/application/ports/output/UserRepository.class
+ar/edu/utn/frsf/dswba/restservice/infrastructure/adapters/output/persistence/UserEntity.class
+ar/edu/utn/frsf/dswba/restservice/domain/model/User.class
+ar/edu/utn/frsf/dswba/restservice/infrastructure/adapters/input/rest/UserController.class

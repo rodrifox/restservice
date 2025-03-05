@@ -1,0 +1,12 @@
+/Users/rodrigobravo/Development/restservice/src/main/java/ar/edu/utn/frsf/dswba/restservice/infrastructure/adapters/output/persistence/UserEntity.java
+/Users/rodrigobravo/Development/restservice/src/main/java/ar/edu/utn/frsf/dswba/restservice/domain/model/User.java
+/Users/rodrigobravo/Development/restservice/src/main/java/ar/edu/utn/frsf/dswba/restservice/application/ports/output/UserRepository.java
+/Users/rodrigobravo/Development/restservice/src/main/java/ar/edu/utn/frsf/dswba/restservice/infrastructure/adapters/input/rest/GreetingController.java
+/Users/rodrigobravo/Development/restservice/src/main/java/ar/edu/utn/frsf/dswba/restservice/infrastructure/adapters/output/persistence/UserMapper.java
+/Users/rodrigobravo/Development/restservice/src/main/java/ar/edu/utn/frsf/dswba/restservice/infrastructure/adapters/input/rest/UserController.java
+/Users/rodrigobravo/Development/restservice/src/main/java/ar/edu/utn/frsf/dswba/restservice/infrastructure/adapters/output/persistence/JpaUserRepository.java
+/Users/rodrigobravo/Development/restservice/src/main/java/ar/edu/utn/frsf/dswba/restservice/application/usecases/UserService.java
+/Users/rodrigobravo/Development/restservice/src/main/java/ar/edu/utn/frsf/dswba/restservice/RestServiceApplication.java
+/Users/rodrigobravo/Development/restservice/src/main/java/ar/edu/utn/frsf/dswba/restservice/application/ports/input/UserUseCase.java
+/Users/rodrigobravo/Development/restservice/src/main/java/ar/edu/utn/frsf/dswba/restservice/domain/model/Greeting.java
+/Users/rodrigobravo/Development/restservice/src/main/java/ar/edu/utn/frsf/dswba/restservice/infrastructure/adapters/output/persistence/UserRepositoryAdapter.java

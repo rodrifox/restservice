@@ -1,8 +1,10 @@
 package ar.edu.utn.frsf.dswba.application.usecases;
 
-import ar.edu.utn.frsf.dswba.application.ports.input.UserUseCase;
-import ar.edu.utn.frsf.dswba.application.ports.output.UserRepository;
-import ar.edu.utn.frsf.dswba.domain.model.User;
+import ar.edu.utn.frsf.dswba.restservice.domain.model.User;
+import ar.edu.utn.frsf.dswba.restservice.application.ports.input.UserUseCase;
+import ar.edu.utn.frsf.dswba.restservice.infrastructure.adapters.output.persistence.UserRepositoryAdapter;
+import ar.edu.utn.frsf.dswba.restservice.application.ports.output.UserRepository;
+
 import org.springframework.stereotype.Service;
 
 import java.util.List;

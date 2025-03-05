@@ -32,6 +32,11 @@ public class User {
         return id;
     }
 
+    public void setId(Long id) {
+        this.id = id;
+        this.updatedAt = LocalDateTime.now();
+    }
+    
     public String getUsername() {
         return username;
     }
